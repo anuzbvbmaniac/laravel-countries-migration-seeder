@@ -7,3 +7,9 @@
 
     php artisan migrate
     php artisan db:seed
+
+#####Table Demonstration
+
+| id  | iso  | name  |  nicename |  iso3 | numcode  |  phonecode |
+| --- | ---  | ---   |  :------: |  ---  | ------:  |  --------: |
+| XX  | XXX  | XXXX  |    xxxx   |  XXX  |   XXXX   |      XXXX  |
